@@ -11,7 +11,7 @@ import (
 )
 
 const (
-	address     = "localhost:50051"
+	address     = "agslash.xyz:50051"
 	defaultName = "world"
 )
 
